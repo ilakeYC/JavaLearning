@@ -1,0 +1,8 @@
+com/foo/service/impl/BaseService.class
+com/foo/web/BaseResource.class
+com/foo/web/util/SimpleCaptchaEngine.class
+com/foo/web/util/SecurityFilter.class
+com/foo/web/IndexResource.class
+com/foo/service/SessionService.class
+com/foo/web/util/RequesetUtils.class
+com/foo/service/impl/SessionServieImpl.class
